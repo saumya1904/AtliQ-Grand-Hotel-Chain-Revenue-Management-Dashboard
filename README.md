@@ -1,5 +1,5 @@
 # AtliQ Grand Hotel Chain - Revenue Management Dashboard
-This project focuses on building an insightful dashboard for the Revenue Management team at AtliQ Grand, a luxury hotel chain. The dashboard provides key insights into revenue trends and helps the management team identify opportunities for optimizing performance.
+This project focuses on building an insightful dashboard for the Revenue Management team at AtliQ Grand, a luxury hotel chain with a presence across India, boasting over 20 years of excellence in the hospitality industry. The dashboard provides key insights into revenue trends and helps the management team identify opportunities for optimizing performance.
 ## 🛠 Tools & Database
 •	Visualization Tool: Power BI <br />
 •	Data Source: Excel <br />
@@ -19,8 +19,6 @@ This project focuses on building an insightful dashboard for the Revenue Managem
 This dashboard was developed as part of the Codebasics Resume Challenge and focuses on analyzing revenue trends for the hospitality industry. <br />
 🏨 Domain: Hospitality <br />
 📊 Function: Revenue Management <br />
-## Company Overview:
-AtliQ Grand is a renowned five-star hotel chain with a presence across India, boasting over 20 years of excellence in the hospitality industry. <br />
 ## 📊 _[Dashboard Features](https://github.com/saumya1904/AtliQ-Grand-Hotel-Chain-Revenue-Management-Dashboard/blob/main/home.png)_
 •	Filters based on city and room class. <br />
 •	Week-on-week comparisons, including ADR, RevPAR, occupancy rates, etc. <br />
