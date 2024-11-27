@@ -43,4 +43,4 @@ This dashboard was developed as part of the Codebasics Resume Challenge and focu
 
 
 Please refer to the original Dashboard for detail. <br />
-(https://app.powerbi.com/groups/me/reports/2faf3eb8-e801-4241-9fbf-41fdb1058992/ReportSection?experience=power-bi)
+https://app.powerbi.com/view?r=eyJrIjoiZmM1YjQxNTItNDQ2Ny00YTM5LWJhMWItMmY1YzQ5NGE2YzU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection
